@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellModem", "BellModem\BellModem.csproj", "{1EBDA436-A526-4BFB-8BAE-0D23F8FA7AD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellModem.CLI", "BellModem.CLI\BellModem.CLI.csproj", "{D18C4602-5568-4135-A066-4D83914E9860}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1EBDA436-A526-4BFB-8BAE-0D23F8FA7AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EBDA436-A526-4BFB-8BAE-0D23F8FA7AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EBDA436-A526-4BFB-8BAE-0D23F8FA7AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D18C4602-5568-4135-A066-4D83914E9860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18C4602-5568-4135-A066-4D83914E9860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18C4602-5568-4135-A066-4D83914E9860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18C4602-5568-4135-A066-4D83914E9860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
